@@ -1,5 +1,5 @@
 h1{
 	color:red;
-};
-p{font-family: arial;};
-.as{color: green;};
+}
+p{font-family: arial;font-size: 50px}
+.asdad{color: green;font-size: 50px}
